@@ -25,7 +25,7 @@ git clone git@github.com:chuxinh/our-data-manual.git
 Feel free to leave us a message or some feedback!
 
 ### 👏 References & Credits
-[Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/) by Jake VanderPlas 
+- [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/) by Jake VanderPlas 
 
 
 <p>&nbsp;</p>
