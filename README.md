@@ -32,4 +32,4 @@ Feel free to leave us a message or some feedback!
 
 > **Disclaimer**
 > 
->*The work in this notebook is provided for personal use only, and should not be distributed for non-commerccial purposes.*
+>*The work in this Github repository is provided for personal use only, and should not be distributed for commercial purposes.*
