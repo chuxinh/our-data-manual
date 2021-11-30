@@ -26,6 +26,7 @@ Feel free to leave us a message or some feedback!
 
 ### 👏 References & Credits
 - [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/) by Jake VanderPlas 
+- [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815) by Will Koehrsen
 
 
 <p>&nbsp;</p>
